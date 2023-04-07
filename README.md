@@ -16,8 +16,6 @@ Some of the samples of the Test Cases.
 
 This document explains how I have done writing Test Cases, Bug Report, Test Case Report, Test Metrics and Mind Maps on e-commerce websites.
 
-The tasks are done for Registration , Sign In & Sign Out features for the jadurjini.com.
-
 The task are done for user Management & product Management features for the BestBuy.
 
 # Summary
