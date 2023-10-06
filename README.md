@@ -22,13 +22,13 @@ The task are done for user Management & product Management features for the Best
 
 The Summary of all the tasks done for all the 2 websites are given below with a table.
 
-| BestBuy.com             |
-| :---------------------- |
-| Test Case Summary       |
-| Test Case (26)          |
-| Bug Report (8)          |
-| Test metrics            |
-| Mind map                |
+| BestBuy.com             | Calculator application |
+| :---------------------- | :--------------------- |
+| Test Case Summary       | Test Survey (40)       |
+| Test Case (26)          | Test Case (8)          |
+| Bug Report (8)          | Bug Report (21)        |
+| Test metrics            | Test metrics           |
+| Mind map                | Mind map               |
 
 
 
