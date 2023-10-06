@@ -14,13 +14,13 @@ Some of the samples of the Test Cases.
 
 # Introduction
 
-This document explains how I have done writing Test Cases, Bug Report, Test Case Report, Test Metrics and Mind Maps on e-commerce websites.
+This document explains how I have done Creating Test survey, Test Cases, Bug Report, Test Case Report,Quality Report, Test Metrics and Mind Maps on websites and applications.
 
-The task are done for user Management & product Management features for the BestBuy.
+The task are done for user Management & product Management features for the BestBuy and desktop application (Calculator).
 
 # Summary
 
-The Summary of all the tasks done for all the 2 websites are given below with a table.
+The Summary of all the tasks done for all the 1 website and 1 Application are given below with a table.
 
 | BestBuy.com             | Calculator application |
 | :---------------------- | :--------------------- |
